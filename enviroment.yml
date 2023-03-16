@@ -1,0 +1,6 @@
+name: python-gapminder
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - matplotlib
